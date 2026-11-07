@@ -1,0 +1,4 @@
+AlcyAIFit Quest - paquete listo para subir
+1. Sube esta carpeta (o el ZIP descomprimido) a Netlify Drop: app.netlify.com/drop
+2. Abre el enlace https en Chrome o Safari (no dentro de WhatsApp).
+3. Para instalarla: menu del navegador > Agregar a pantalla de inicio.
